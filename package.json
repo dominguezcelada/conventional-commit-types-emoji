@@ -1,14 +1,11 @@
 {
-  "name": "@dominguezcelada/conventional-commit-types-emoji",
+  "name": "conventional-commit-types-emoji-oscardom",
   "description": "List of conventional commit types with emojis.",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "main": "src/index.json",
   "author": "Oscar Dominguez",
   "license": "ISC",
   "repository": "dominguezcelada/conventional-commit-types-emoji",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "scripts": {
     "commit": "git add --all && git status && git-cz",
     "pre-release": "npm test",
