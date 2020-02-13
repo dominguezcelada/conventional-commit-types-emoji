@@ -1,5 +1,5 @@
 {
-  "name": "conventional-commit-types-emoji",
+  "name": "@dominguezcelada/conventional-commit-types-emoji",
   "description": "List of conventional commit types with emojis.",
   "version": "0.1.0",
   "main": "src/index.json",
