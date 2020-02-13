@@ -9,6 +9,9 @@
     "type": "git",
     "url": "https://github.com/ellerbrock/conventional-commit-types-emoji.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "scripts": {
     "commit": "git add --all && git status && git-cz",
     "pre-release": "npm test",
