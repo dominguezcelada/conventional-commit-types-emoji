@@ -9,8 +9,8 @@
       "emoji": "🐛"
     },
     "docs": {
-      "description": "📖  Documentation only changes",
-      "emoji": "📖"
+      "description": "📚  Documentation only changes",
+      "emoji": "📚"
     },
     "style": {
       "description": "💎  Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)",
