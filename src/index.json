@@ -29,8 +29,8 @@
       "emoji": "🚨"
     },
     "build": {
-      "description": "👷  Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)",
-      "emoji": "👷"
+      "description": "📦  Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)",
+      "emoji": "📦"
     },
     "ci": {
       "description": "💻  Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)",
