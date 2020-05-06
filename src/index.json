@@ -33,8 +33,8 @@
       "emoji": "📦"
     },
     "ci": {
-      "description": "💻  Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)",
-      "emoji": "💻"
+      "description": "💚  Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)",
+      "emoji": "💚"
     },
     "chore": {
       "description": "🎫  Other changes that don't modify src or test files",
