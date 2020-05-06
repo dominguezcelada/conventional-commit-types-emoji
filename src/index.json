@@ -37,8 +37,28 @@
       "emoji": "💚"
     },
     "chore": {
-      "description": "🎫  Other changes that don't modify src or test files",
-      "emoji": "🎫"
+      "description": "🔩  Other changes that don't modify src or test files",
+      "emoji": "🔩"
+    },
+    "chore-release": {
+      "description": "🚀  Code deployment or publishing to external repositories",
+      "emoji": "🚀"
+    },
+    "chore-deps": {
+      "description": "🔗  Add or delete dependencies",
+      "emoji": "🔗"
+    },
+    "security": {
+      "description": "🔒  Fixing security issues",
+      "emoji": "🔒"
+    },
+    "i18n": {
+      "description": "🌐  Internationalization and localization",
+      "emoji": "🌐"
+    },
+    "config": {
+      "description": "⚙️  Changing configuration files",
+      "emoji": "⚙️"
     },
     "revert": {
       "description": "🔙  Reverts a previous commit",
