@@ -17,8 +17,8 @@
       "emoji": "💅"
     },
     "refactor": {
-      "description": "📦  A code change that neither fixes a bug nor adds a feature",
-      "emoji": "📦"
+      "description": "♻️  A code change that neither fixes a bug nor adds a feature",
+      "emoji": "♻️"
     },
     "perf": {
       "description": "🚀  A code change that improves performance",
