@@ -9,36 +9,56 @@
       "emoji": "🐛"
     },
     "docs": {
-      "description": "📖  Documentation only changes",
-      "emoji": "📖"
+      "description": "📚  Documentation only changes",
+      "emoji": "📚"
     },
     "style": {
-      "description": "💎  Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)",
-      "emoji": "💎"
+      "description": "💅  Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)",
+      "emoji": "💅"
     },
     "refactor": {
-      "description": "📦  A code change that neither fixes a bug nor adds a feature",
-      "emoji": "📦"
+      "description": "♻️  A code change that neither fixes a bug nor adds a feature",
+      "emoji": "♻️"
     },
     "perf": {
-      "description": "🚀  A code change that improves performance",
-      "emoji": "🚀"
+      "description": "⚡️  A code change that improves performance",
+      "emoji": "⚡️"
     },
     "test": {
       "description": "🚨  Adding missing tests or correcting existing tests",
       "emoji": "🚨"
     },
     "build": {
-      "description": "👷  Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)",
-      "emoji": "👷"
+      "description": "📦  Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)",
+      "emoji": "📦"
     },
     "ci": {
-      "description": "💻  Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)",
-      "emoji": "💻"
+      "description": "💚  Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)",
+      "emoji": "💚"
     },
     "chore": {
-      "description": "🎫  Other changes that don't modify src or test files",
-      "emoji": "🎫"
+      "description": "🔩  Other changes that don't modify src or test files",
+      "emoji": "🔩"
+    },
+    "chore-release": {
+      "description": "🚀  Code deployment or publishing to external repositories",
+      "emoji": "🚀"
+    },
+    "chore-deps": {
+      "description": "🔗  Add or delete dependencies",
+      "emoji": "🔗"
+    },
+    "security": {
+      "description": "🔒  Fixing security issues",
+      "emoji": "🔒"
+    },
+    "i18n": {
+      "description": "🌐  Internationalization and localization",
+      "emoji": "🌐"
+    },
+    "config": {
+      "description": "⚙️  Changing configuration files",
+      "emoji": "⚙️"
     },
     "revert": {
       "description": "🔙  Reverts a previous commit",
