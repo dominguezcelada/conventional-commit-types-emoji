@@ -21,8 +21,8 @@
       "emoji": "♻️"
     },
     "perf": {
-      "description": "🚀  A code change that improves performance",
-      "emoji": "🚀"
+      "description": "⚡️  A code change that improves performance",
+      "emoji": "⚡️"
     },
     "test": {
       "description": "🚨  Adding missing tests or correcting existing tests",
